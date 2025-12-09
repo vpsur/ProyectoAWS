@@ -1,0 +1,77 @@
+{
+    "Top10_Recomendaciones": [
+        {
+            "Usuario": "Severino",
+            "Oferta": "Coreógrafo",
+            "Afinidad": 99.82
+        },
+        {
+            "Usuario": "Julio",
+            "Oferta": "Maquinista de locomotoras",
+            "Afinidad": 98.38
+        },
+        {
+            "Usuario": "Gustavo",
+            "Oferta": "Reponedor de estanterías",
+            "Afinidad": 96.61
+        },
+        {
+            "Usuario": "Juana",
+            "Oferta": "Conserje",
+            "Afinidad": 96.32
+        },
+        {
+            "Usuario": "Cristian",
+            "Oferta": "Profesional del trabajo social",
+            "Afinidad": 95.4
+        },
+        {
+            "Usuario": "José",
+            "Oferta": "Soplador de vidrio",
+            "Afinidad": 91.7
+        },
+        {
+            "Usuario": "Julio",
+            "Oferta": "Soplador de vidrio",
+            "Afinidad": 89.42
+        },
+        {
+            "Usuario": "Ángel",
+            "Oferta": "Operador de instalaciones de producción de energía",
+            "Afinidad": 89.25
+        },
+        {
+            "Usuario": "Cristian",
+            "Oferta": "Operador de instalaciones de producción de energía",
+            "Afinidad": 86.79
+        },
+        {
+            "Usuario": "Isaías",
+            "Oferta": "Operador de instalaciones de producción de energía",
+            "Afinidad": 85.74
+        }
+    ],
+    "Afinidad_Promedio_Por_Sector": [
+        {
+            "Sector": "Educación",
+            "Afinidad_Promedio": 73.262727
+        },
+        {
+            "Sector": "Finanzas",
+            "Afinidad_Promedio": 76.600909
+        },
+        {
+            "Sector": "Marketing",
+            "Afinidad_Promedio": 63.649286
+        },
+        {
+            "Sector": "Salud",
+            "Afinidad_Promedio": 54.03
+        },
+        {
+            "Sector": "Tecnología",
+            "Afinidad_Promedio": 85.57
+        }
+    ],
+    "Descripcion": "Análisis de afinidad entre usuarios y ofertas en MariaDB"
+}
